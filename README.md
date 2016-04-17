@@ -5,7 +5,7 @@
 2. This will create an executable called a.out in the root directory. You can then run the program by using ./a.out
 
 ## Upto
-Chapter 6 - page 187
+Chapter 7 - page 223
 
 ## How C++ code works
 1. You use an editor to write C++ code
