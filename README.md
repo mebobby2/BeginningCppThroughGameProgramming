@@ -5,7 +5,7 @@
 2. This will create an executable called a.out in the root directory. You can then run the program by using ./a.out
 
 ## Upto
-Chapter 9 - Working with data members and the heap - page 303
+Chapter 10 - page 331
 
 ## How C++ code works
 1. You use an editor to write C++ code
