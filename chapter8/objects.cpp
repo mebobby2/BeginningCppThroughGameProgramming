@@ -5,7 +5,9 @@ class Critter
 {
 public: // begin public section
   Critter(int hunger = 0);
-  int GetHunger() const;
+  //const at the end of a function declaration means this function isn't allow to change the data
+  //members contain in the instance of the object for which the function is called on.
+  int GetHunger() const; 
   void SetHunger(int hunger);
 private: // begin private section
   int m_Hunger;
